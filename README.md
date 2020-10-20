@@ -1,6 +1,6 @@
-# flutter_demo
+# Flutter_Demo
 
-A new Flutter project.
+A new Flutter project with basic login and sign up page in dart.
 
 ## Getting Started
 
